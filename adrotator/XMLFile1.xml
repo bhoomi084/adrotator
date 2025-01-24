@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>net.png</ImageUrl>
+		<NavigataUrl>https://www.google.com</NavigataUrl>
+		<AlternativeText>Asp.net Framework</AlternativeText>
+		<keyword>Technology</keyword>
+		<Impression>5</Impression>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>netintro.jpeg</ImageUrl>
+		<NavigataUrl>https://www.google.com</NavigataUrl>
+		<AlternativeText>Asp.net Framework</AlternativeText>
+		<keyword>Technology</keyword>
+		<Impression>5</Impression> 
+	</Ad>
+</Advertisements>
